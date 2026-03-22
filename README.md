@@ -20,12 +20,9 @@
 </ul>
 
 <h3>3. THE GEAR (HARDWARE)</h3>
-<p>Every line of code and every glitch effect is forged on a dual-system setup to ensure maximum compatibility:</p>
-<ul>
-  <li><b>Primary Development:</b> HP 14s (Windows Engine)</li>
-  <li><b>Visual Design:</b> MacBook Air (Design & 3D Effects)</li>
-  <li><b>Software:</b> Paint 3D, Keynote, and GitHub Desktop</li>
-</ul>
+<p>VORTEX-C is so lightweight games work on 2gb minumum, 1mb of ram, <b>EVEN WORKS ON A POTATO!</b> </p>
+
+
 
 <h3>4. FUTURE MISSIONS</h3>
 <p>We are currently moving from 2D concepts to full 3D environments. Our goal for 2027 is to release three major high-quality titles that challenge the industry standards for price and performance.</p>
