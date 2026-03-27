@@ -26,7 +26,7 @@ To ensure the best experience with the **V-MESH** render engine and our studio h
 *   **COLOR:** `8-bit` Minimum | `10-bit+` Recommended
 
 ### 4. FUTURE MISSIONS
-We are currently moving from 2D concepts to full 3D environments. Our goal for 2027 is to release three major high-quality titles that challenge the industry standards for price and performance.
+We are currently moving from 2D concepts to full 3D environments. Our goal for 2027 is to release major high-quality titles that challenge the industry standards for price and performance.
 
 <hr>
 
