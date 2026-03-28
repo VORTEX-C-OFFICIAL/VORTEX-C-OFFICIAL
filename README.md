@@ -28,6 +28,8 @@ To ensure the best experience with the **V-MESH** render engine and our studio h
 ### 4. FUTURE MISSIONS
 We are currently moving from 2D concepts to full 3D environments. Our goal for 2027 is to release major high-quality titles that challenge the industry standards for price and performance.
 
+### 5. WHAT DOES THE -C MEAN
+Just lke how apple uses i for `I`nternert `i`ncredible etc the c stands for **Complete, cheap , cool, comunity, compete, congrats, can-do.**
 <hr>
 
 <p align="center"><i>"In the eye of the storm, the code is calm."</i></p>
