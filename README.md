@@ -12,8 +12,8 @@ In 2026, I founded a studio called **TKS (Time Killer Studios)**. However, evolu
 ### 2. THE PLAN & PRICING
 Vortex-C is built for the players. While other studios overcharge for security and content, we keep it simple and affordable. We offer a **Premium Subscription** that grants full access to our library and elite security features.
 
-*   **Standard Rate:** $5 AUD per month ($60/year)
-*   **Loyalty Discount:** After 5 years of membership, your price drops to **$2.50 AUD per month** ($30/year).
+*   **Standard Rate:** 1000vortex specs [12000vortex specs per year]
+*   **Loyalty Discount:** 750specs [9000specs per year].
 
 <hr>
 
